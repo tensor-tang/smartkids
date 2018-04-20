@@ -1,0 +1,7 @@
+*.jpeg
+*.csv
+*.txt
+*.bkp
+*.noboxing
+boxed_images
+raw_data
